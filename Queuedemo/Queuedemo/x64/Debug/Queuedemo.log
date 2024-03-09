@@ -1,0 +1,6 @@
+﻿  Queue.cpp
+  SqQueuedemo1.cpp
+  正在生成代码...
+SqQueuedemo1.obj : error LNK2005: "bool __cdecl IsEmpty(struct SqQueue)" (?IsEmpty@@YA_NUSqQueue@@@Z) 已经在 Queue.obj 中定义
+SqQueuedemo1.obj : error LNK2005: "bool __cdecl SqQueueInit(struct SqQueue &)" (?SqQueueInit@@YA_NAEAUSqQueue@@@Z) 已经在 Queue.obj 中定义
+D:\madao\struct_of_data_of_C\Queuedemo\x64\Debug\Queuedemo.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
